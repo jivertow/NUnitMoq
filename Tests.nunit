@@ -2,6 +2,7 @@
   <Settings activeconfig="Debug" />
   <Config name="Debug" binpathtype="Auto">
     <assembly path="UserServiceTest\bin\Release\UserServiceTest.dll" />
+    <assembly path="StrategyTest\bin\Debug\StrategyTest.dll" />
   </Config>
   <Config name="Release" binpathtype="Auto" />
 </NUnitProject>

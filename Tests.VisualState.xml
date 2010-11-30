@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\Toffski\VS10\UserService\Tests.nunit</TopNode>
+  <SelectedNode>[0-1008]StrategyTest.StrategyTests.AlgorithmTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\Toffski\VS10\UserService\Tests.nunit" Expanded="true" />
+    <Node UniqueName="[0-1005]C:\Users\Toffski\VS10\UserService\UserServiceTest\bin\Release\UserServiceTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]UserServiceTest" Expanded="true" />
+    <Node UniqueName="[0-1001]UserServiceTest.FunctionTests" Expanded="true" />
+    <Node UniqueName="[0-1010]C:\Users\Toffski\VS10\UserService\StrategyTest\bin\Debug\StrategyTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]StrategyTest" Expanded="true" />
+    <Node UniqueName="[0-1007]StrategyTest.StrategyTests" Expanded="true" />
+  </Nodes>
+</VisualState>
